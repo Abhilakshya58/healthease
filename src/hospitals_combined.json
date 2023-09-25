@@ -1,0 +1,197 @@
+[
+    {
+      "location": "Shimla",
+      "hospitals": [
+        {
+          "name": "Tenzin Hospital",
+          "address": "NH-22 ,By Pass Road Panthaghati, Kasumpti,Shimla Himchal Pradesh - 171009",
+          "latitude": 31.1048,
+          "longitude": 77.1734
+        },
+        {
+          "name": "Indira Gandhi Medical college",
+          "address": "Shimla Ridge sanjauli road, Himachal Pradesh",
+          "latitude": 31.1069,
+          "longitude": 77.1730
+        },
+        {
+          "name": "Zonal Hospital",
+          "address": "Hospital Rd, Palace Colony,Mandi, Himachal Pradesh",
+          "latitude": 31.1030,
+          "longitude": 77.1670
+        },
+        {
+          "name": "Simla Sanitarium Hospital",
+          "address": "Carton House,Ambedkar Chowk,Chaura maidan, Shimla, Himachal Pradesh",
+          "latitude": 31.1040,
+          "longitude": 77.1750
+        },
+        {
+          "name": "kamla Nehru Hospital",
+          "address": "Shimla GPO, Shimla, Himachal Pradesh",
+          "latitude": 31.1025,
+          "longitude": 77.1705
+        },
+        {
+          "name": "sanjeevani Hospital",
+          "address": "135/5, chuhabhag, Rampur Bushahr, Shimla, Himachal Pradesh",
+          "latitude": 31.1050,
+          "longitude": 77.1740
+        },
+        {
+          "name": "Indus Hospital",
+          "address": "Indus Drive,Mount Jakhoo, Shimla, Himachal Pradesh",
+          "latitude": 31.1055,
+          "longitude": 77.1745
+        },
+        {
+          "name": "Rai Hospital",
+          "address": "A-01,Roshan complex,Jhanki Das Market Main Road,Rohru, Shimla, Himachal Pradesh",
+          "latitude": 31.1045,
+          "longitude": 77.1715
+        },
+        {
+          "name": "Shree Ram Hospita",
+          "address": "18-D, Sector 1, New Shimla, Shimla, Himachal Pradesh 171009",
+          "latitude": 31.1020,
+          "longitude": 77.1680
+        },
+        {
+          "name": "Tara Hospital",
+          "address": "Padam Dev Complex,3rd Floor, Shimla, Himachal Pradesh",
+          "latitude": 31.1070,
+          "longitude": 77.1700
+        }
+      ]
+    },
+    {
+      "location": "Khajjiar",
+      "hospitals": [
+        {
+          "name": "Fortis Hosptital Kangra",
+          "address": "Plampur ,Dharmshala road, Himachal Pradesh",
+          "latitude": 32.5510,
+          "longitude": 76.1150
+        },
+        {
+          "name": " Dr. K.D.'s Eye Hospital",
+          "address": "Near Petrol Pump, Dharamshala Road,Distt. Kangra H.P 176001",
+          "latitude": 32.5530,
+          "longitude": 76.1170
+        },
+        {
+          "name": "Surya hospital",
+          "address": "jassur dhameta road raja ka talab, nurpur, himachal pradesh",
+          "latitude": 32.5525,
+          "longitude": 76.1165
+        },
+        {
+          "name": "Apex Multi-Speciality Hospital",
+          "address": "Mcleodganj Bypass road, near bus stand, Dharamshala, Himachal Pradesh 176215",
+          "latitude": 32.5505,
+          "longitude": 76.1145
+        },
+        {
+          "name": "",
+          "address": "222 Cedar St, Khajjiar, Himachal Pradesh",
+          "latitude": 32.5515,
+          "longitude": 76.1155
+        },
+        {
+          "name": "",
+          "address": "333 Pine St, Khajjiar, Himachal Pradesh",
+          "latitude": 32.5520,
+          "longitude": 76.1160
+        },
+        {
+          "name": "",
+          "address": "444 Elm St, Khajjiar, Himachal Pradesh",
+          "latitude": 32.5515,
+          "longitude": 76.1155
+        },
+        {
+          "name": "",
+          "address": "777 Oak St, Khajjiar, Himachal Pradesh",
+          "latitude": 32.5540,
+          "longitude": 76.1180
+        },
+        {
+          "name": "",
+          "address": "555 Cedar St, Khajjiar, Himachal Pradesh",
+          "latitude": 32.5535,
+          "longitude": 76.1175
+        },
+        {
+          "name": "",
+          "address": "888 Pine St, Khajjiar, Himachal Pradesh",
+          "latitude": 32.5495,
+          "longitude": 76.1135
+        }
+      ]
+    },
+    {
+      "location": "Dalhousie",
+      "hospitals": [
+        {
+          "name": "Sukhmani Hospital",
+          "address": "H43F+X8C, Mohalla Kasakra, Himachal Pradesh",
+          "latitude": 32.5354,
+          "longitude": 75.9130
+        },
+        {
+          "name": "Amandeep Hospital",
+          "address": "Dalhousie Road, Mamun",
+          "latitude": 32.5340,
+          "longitude": 75.9115
+        },
+        {
+          "name": "NHPC Hospital",
+          "address": "GWWR+36X, Pathankot - Chamba Road, Near Nag Devta Temple, Dalhousie, Banikhet, Himachal Pradesh",
+          "latitude": 32.5365,
+          "longitude": 75.9145
+        },
+        {
+          "name": "Sukiran ENT Hospital",
+          "address": "Gali Kucha Gopal Das, Mission Chowk,Dalhousie Road,Pathankot",
+          "latitude": 32.5330,
+          "longitude": 75.9100
+        },
+        {
+          "name": "",
+          "address": "55 Cedar St, Dalhousie, Himachal Pradesh",
+          "latitude": 32.5375,
+          "longitude": 75.9155
+        },
+        {
+          "name": "",
+          "address": "222 Maple St, Dalhousie, Himachal Pradesh",
+          "latitude": 32.5325,
+          "longitude": 75.9095
+        },
+        {
+          "name": "",
+          "address": "333 Redwood St, Dalhousie, Himachal Pradesh",
+          "latitude": 32.5385,
+          "longitude": 75.9165
+        },
+        {
+          "name": "",
+          "address": "444 Birch St, Dalhousie, Himachal Pradesh",
+          "latitude": 32.5315,
+          "longitude": 75.9085
+        },
+        {
+          "name": "",
+          "address": "777 Aspen St, Dalhousie, Himachal Pradesh",
+          "latitude": 32.5395,
+          "longitude": 75.9175
+        },
+        {
+          "name": "",
+          "address": "888 Spruce St, Dalhousie, Himachal Pradesh",
+          "latitude": 32.5305,
+          "longitude": 75.9075
+        }
+      ]
+    }
+  ]

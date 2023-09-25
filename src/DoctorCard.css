@@ -1,0 +1,46 @@
+/* DoctorCard.css */
+.doctor-card-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin-top: 40px; /* Add margin to separate from the content above */
+  }
+  
+  .DoctorCard {
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin: 10px;
+    flex-basis: calc(20% - 40px); /* Five cards per row on laptops */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    background-color: #fff;
+    transition: transform 0.2s ease-in-out;
+  }
+  
+  .DoctorCard:hover {
+    transform: scale(1.05);
+  }
+  
+  .DoctorCard img {
+    max-width: 100%;
+    height: auto;
+  }
+  
+  .DoctorCard h2 {
+    margin-top: 10px;
+    font-size: 1.5rem;
+    font-weight: bold;
+  }
+  
+  .DoctorCard h3 {
+    margin-top: 5px;
+    font-size: 1.2rem;
+    color: #666;
+  }
+  
+  @media (max-width: 768px) {
+    .DoctorCard {
+      flex-basis: calc(33.33% - 40px); /* Three cards per row on mobile */
+    }
+  }
+  

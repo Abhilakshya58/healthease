@@ -1,0 +1,26 @@
+/* Card.css */
+.card {
+    border: 1px solid #ddd;
+    padding: 10px; /* Reduced padding to make the cards smaller */ /* Reduced margin for spacing */
+    text-align: center;
+    flex: 1;
+    max-width: 200px; /* Set a maximum width for responsiveness */
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add a subtle box shadow for a card-like appearance */
+  }
+  
+  img {
+    max-width: 100%;
+    height: auto; /* Maintain aspect ratio */
+  }
+  
+  h4 {
+    margin-top: 8px;
+    font-size: smaller;
+  }
+  
+  .card-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; /* Center the cards horizontally */
+  }
+  

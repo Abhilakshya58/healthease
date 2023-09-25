@@ -1,0 +1,23 @@
+
+{
+  "Shimla Hospital": [
+    {
+      "id": 1,
+      "name": "Dr. John Doe",
+      "specialty": "Cardiologist",
+      "image": "doctor1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Dr. Jane Smith",
+      "specialty": "Dermatologist",
+      "image": "doctor2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Dr. David Johnson",
+      "specialty": "Orthopedic Surgeon",
+      "image": "doctor3.jpg"
+    }
+  ]
+}

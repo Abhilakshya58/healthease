@@ -1,0 +1,187 @@
+
+    [
+      {
+        "id": 1,
+        "name": "Dr. H.S. Sodhi",
+        "specialty": "Cardiology",
+        "image": "http://tenzinhospital.com/images/doctors/hssodhi.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Dr. Neeraj Mittal",
+        "specialty": "Radiology",
+        "image": "http://tenzinhospital.com/images/doctors/neerajmittal.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Dr. P.L. Gaunta",
+        "specialty": "Surgery",
+        "image": "http://tenzinhospital.com/images/doctors/plgaunta.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Dr. R.C. Thakur",
+        "specialty": "Medicine",
+        "image": "http://tenzinhospital.com/images/doctors/rcthakur.jpg"
+      },
+      {
+        "id": 5,
+        "name": "Dr. Neena Rana",
+        "specialty": "Gynaecology",
+        "image": "http://tenzinhospital.com/images/doctors/neenarana.jpg"
+      },
+    
+      {
+        "id": 1,
+        "name": "Dr. Sanjeev asotra",
+        "specialty": "Cardiologist",
+        "image": "https://imagesx.practo.com/providers/dr-puneet-prashar-ent-head-and-neck-surgeon-pathankot-68ed76d8-2ab1-46e6-88e8-8e7634e318eb.jpg?i_type=t_70x70"
+      },
+      {
+        "id": 2,
+        "name": "Dr. Ramesh azad",
+        "specialty": "ENT",
+        "image": ""
+      },
+      {
+        "id": 3,
+        "name": "Dr. Gian Chand",
+        "specialty": "Neurosurgery",
+        "image": ""
+      },
+      {
+        "id": 4,
+        "name": "Dr. Mangla sood",
+        "specialty": "Paediatrics",
+        "image": ""
+      },
+    
+      {
+        "id": 1,
+        "name": "Dr. Amit Bhandari",
+        "specialty": "ENT SURGEON",
+        "image": "https://shriramhospitals.com/wp-content/uploads/2022/04/Dr.-Amit-Bhandari-ENT-Surgeon-460x500.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Dr. Ambar Bhatnagar",
+        "specialty": "Cardiologists",
+        "image": "https://shriramhospitals.com/wp-content/uploads/2022/06/Dr.-Ambar-Bhatnagar-Cardiologist-460x500.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Dr. Sunil Chandak",
+        "specialty": "Bariatic surgery Specialist",
+        "image": "https://shriramhospitals.com/wp-content/uploads/2019/09/Dr.-Sunil-Chandak-Bariatric-Weight-Loss-Surgery-Specialist-1-460x500.jpg"
+      },
+      {
+        "id": 4,
+        "name": "Dr. Rakesh Goyal",
+        "specialty": "Neurologist",
+        "image": "https://shriramhospitals.com/wp-content/uploads/2022/06/Dr.-Rakesh-Goyal-Neuro-Surgeon-460x500.jpg"
+      },
+      {
+        "id": 1,
+        "name": "Dr. Anketa Katoch",
+        "specialty": "Solid Tumor specialist",
+        "image": ""
+      },
+      {
+        "id": 2,
+        "name": "Dr. Ashu Rai",
+        "specialty": "Dentist",
+        "image": ""
+      },
+      {
+        "id": 3,
+        "name": "Dr. Gagan Acharya",
+        "specialty": "endocrinologist",
+        "image": ""
+      },
+      {
+        "id": 4,
+        "name": "Dr Kuldeep kumar",
+        "specialty": "kidney disease treatment",
+        "image": ""
+      },
+      {
+        "id": 5,
+        "name": "Dr. Vibhav sharma",
+        "specialty": "cardiologist",
+        "image": ""
+      },
+      {
+        "id": 1,
+        "name": "Dr. Sachin shah",
+        "specialty": "paediatrics",
+        "image": ""
+      },
+      {
+        "id": 2,
+        "name": "Dr shobha sharma",
+        "specialty": "general",
+        "image": ""
+      },
+      {
+        "id": 3,
+        "name": "dr. Bhupendra avasthi",
+        "specialty": "general",
+        "image": ""
+      },
+      {
+        "id": 1,
+        "name": "Dr Sameer Gupta",
+        "specialty": "Pathologist",
+        "image": "https://images1.doctoriduniya.com/doctors-img/dr-sameer-gupta-pathologist-moradabad-6343.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Dr Siddharth Singh",
+        "specialty": "Radiologist",
+        "image": "https://images1.doctoriduniya.com/doctors-img/dr-siddharth-singh-radiologist-moradabad-6344.jpg"
+      },
+      {
+        "id": 3,
+        "name": "Dr Deepak Jha",
+        "specialty": "Oncologist",
+        "image": "https://images1.doctoriduniya.com/doctors-img/dr-deepak-jha-oncologist-moradabad-4494.jpg"
+      },
+      {
+        "id": 1,
+        "name": "Dr Leena Mehrotra",
+        "specialty": "Gynaecologist ",
+        "image": "https://images1.doctoriduniya.com/doctors-img/dr-leena-mehrotra-gynaecologist-and-obstetrician-moradabad-4497.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Dr Rohit Khurana",
+        "specialty": "Pediatrician",
+        "image": "https://images1.doctoriduniya.com/doctors-img/dr-rohit-khurana-pediatrician-child-specialist-moradabad-4499.jpg"
+      },
+      {
+        "id": 1,
+        "name": "Dr Sunil Kumar Chauhan",
+        "specialty": "Ophthalmology ",
+        "image": "https://zhmandi.com/wp-content/uploads/2023/01/56b77836-d328-4ccb-b4ab-bf6b5017f55e-1.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Dr Himanshi",
+        "specialty": "Ophthalmology",
+        "image": "https://zhmandi.com/wp-content/uploads/2023/01/3e522b14-a2ee-471f-88cd-5a9422c6245d.jpg"
+      },
+      {
+        "id": 1,
+        "name": "Dr Yamini Sharma",
+        "specialty": "Paediatrics ",
+        "image": "https://zhmandi.com/wp-content/uploads/2023/01/1.jpg"
+      },
+      {
+        "id": 2,
+        "name": "Dr Vikrant Dharwal",
+        "specialty": "Genral Surgeon ( MBBS , MS",
+        "image": "https://zhmandi.com/wp-content/uploads/2023/01/IMG-20230107-WA0012.jpg"
+      }
+    ]  
+
+  
